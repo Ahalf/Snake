@@ -1,12 +1,12 @@
 
 ######################   SNAKE  ###########################
-##														 ##
-##  Rules of the Game									 ##
+##							 ##
+##  Rules of the Game					 ##
 ##  Move the snake using the 4 arrows on the keyboard    ##
-##  Eat the "berries" as they appear on the screen		 ##
+##  Eat the "berries" as they appear on the screen	 ##
 ##  Don't let the snake eat any part of its body or hit  ##
-##  The walls of the game screen 						 ##
-##														 ##
+##  The walls of the game screen 			 ##
+##							 ##
 ###########################################################
 
 	The interface runs automatically.
